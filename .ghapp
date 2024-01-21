@@ -1,0 +1,10 @@
+{
+  "id": 46385976,
+  "created_at": "2024-01-21T18:25:32.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["pelotonR"]
+}
