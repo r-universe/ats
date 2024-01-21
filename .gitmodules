@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ats/ats.r-universe.dev
 	branch = HEAD
+[submodule "pelotonR"]
+	path = pelotonR
+	url = https://ats.github.com/pelotonR
