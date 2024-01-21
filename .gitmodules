@@ -4,4 +4,5 @@
 	branch = HEAD
 [submodule "pelotonR"]
 	path = pelotonR
-	url = https://ats.github.com/pelotonR
+	url = https://github.com/ats/pelotonR
+	branch = master
